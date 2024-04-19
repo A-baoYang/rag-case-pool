@@ -1,0 +1,1 @@
+aws s3 cp data/ s3://rag-case-pool/data/ --recursive
